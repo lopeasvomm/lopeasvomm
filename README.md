@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on:
-- Repo BlANK
+- Repo BLANK
 
 
 ### 🌱 I’m currently learning:
