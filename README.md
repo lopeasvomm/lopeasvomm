@@ -11,8 +11,7 @@
 - Github actions
 
 
-###  learned:
-# Programming langues
+### Programming langues learned:
 - bash
 - powershell
 - assembly
