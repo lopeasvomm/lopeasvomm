@@ -12,7 +12,7 @@
 
 
 ###  learned:
-## Programming langues
+# Programming langues
 - bash
 - powershell
 - assembly
